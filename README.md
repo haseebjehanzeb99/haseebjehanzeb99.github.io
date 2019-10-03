@@ -4,13 +4,13 @@
 _This is built using Jekyll 3.8.5 and Git-Pages and Ruby :)_
 
 ### Some important commands for Jekyll
-`bundle show minima`  -- Show some stuff related to a gem
-`bundle exec jekyll serve`   -- Run the site locally
+`bundle show minima`  -- Show some stuff related to a gem<br/>
+`bundle exec jekyll serve`   -- Run the site locally<br/>
 
-`bundle install`   -- install all packages from Bundles.lock file
-`bundle update`   -- Re-install packages or dependencies
+`bundle install`   -- install all packages from Bundles.lock file<br/>
+`bundle update`   -- Re-install packages or dependencies<br/>
 
 ### Important Links
-Jekyll Github docs: https://help.github.com/en/articles/creating-a-github-pages-site-with-jekyll
-For Customizing themes: https://jekyllrb.com/docs/themes/
-Markdown Cheetsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
+Jekyll Github docs: https://help.github.com/en/articles/creating-a-github-pages-site-with-jekyll<br/>
+For Customizing themes: https://jekyllrb.com/docs/themes/<br/>
+Markdown Cheetsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images<br/>
